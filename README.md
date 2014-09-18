@@ -5,7 +5,7 @@ README Introduction to Titanic set - Kaggle challenge
 Disclosure
 -------------------------- 
 
-These are the files produced during a homework assignment of Coursera's MOOC Developing Data Products from Johns Hopkins University, where students could pick any dataset they wanted, and should produce a web app hosted on SaaS platform fro RStudio shinyapss.io. 
+These are the files produced during a homework assignment of Coursera's MOOC Developing Data Products from Johns Hopkins University, where students could pick any dataset, and should produce a web app hosted on SaaS platform from RStudio shinyapss.io. 
 
 For more information about the several MOOCs comprised in this Specialization, please visit:
 https://www.coursera.org/specialization/jhudatascience/
@@ -21,7 +21,7 @@ http://trevorstephens.com/post/72916401642/titanic-getting-started-with-r
 
 The scripts have been solely produced, tested and executed on MAC OS X 10.9.4, and RStudio Version 0.98.976. 
 
-Use it at your own discretion.
+Use it at your own discretion/responsability.
 
 
 Guidelines to reproduce this project
@@ -32,7 +32,7 @@ http://shiny.rstudio.com/articles/shinyapps.html
 
 2. Run the following command in the command prompt: 
 
-runGitHub( "shiny-test-repo", "diogoaurelio") 
+runGitHub( "titanicShinyApp", "diogoaurelio") 
 
 3. Voilá.
 
