@@ -32,7 +32,7 @@ To run locally this App on your computer you do NOT need to fork this repo. Plea
 http://shiny.rstudio.com/articles/shinyapps.html
 
 2. Run the following command in the command prompt: 
-runGitHub( "titanicShinyApp", "diogoaurelio") 
+>runGitHub( "titanicShinyApp", "diogoaurelio") 
 
 3. Voilá.
 
