@@ -31,7 +31,7 @@ To run locally this App on your computer you do NOT need to fork this repo. Plea
 1. Install the necessary packages to run RStudio's Shiny Server locally. Please view the well documented requirements in the getting started page:
 http://shiny.rstudio.com/articles/shinyapps.html
 
-2. Run the following command in the command prompt: 
+2. Run the following command in the RStudio: 
 >runGitHub( "titanicShinyApp", "diogoaurelio") 
 
 3. Voilá.
